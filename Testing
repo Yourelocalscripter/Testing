@@ -1,0 +1,5 @@
+game:GetService("ReplicatedStorage"):WaitForChild("SpecialMoves"):WaitForChild("HeavenlyLightningStrike"):FireServer()
+game:GetService("ReplicatedStorage"):WaitForChild("SpecialMoves"):WaitForChild("HeavenlyLightningStrike"):FireServer()
+game:GetService("ReplicatedStorage"):WaitForChild("SpecialMoves"):WaitForChild("HeavenlyLightningStrike"):FireServer()
+game:GetService("ReplicatedStorage"):WaitForChild("SpecialMoves"):WaitForChild("HeavenlyLightningStrike"):FireServer()
+game:GetService("ReplicatedStorage"):WaitForChild("SpecialMoves"):WaitForChild("HeavenlyLightningStrike"):FireServer()
